@@ -1,0 +1,26 @@
+[{
+    "name": "Yunjr",
+    "age" : 21,
+    "isEployed": true
+},
+{
+    "name": "Smeymis",
+    "age" : 21,
+    "isEployed": false
+},
+{
+    "name": "Hearcr",
+    "age" : 22,
+    "isEployed": true
+},
+{
+    "name": "Hengori",
+    "age" : 19,
+    "isEployed": false
+},
+{
+    "name": "Ninkipper",
+    "age" : 20,
+    "isEployed": true
+}
+]

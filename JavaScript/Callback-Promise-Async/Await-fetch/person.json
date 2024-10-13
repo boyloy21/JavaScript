@@ -1,0 +1,6 @@
+{
+    "name": "Yunjr",
+    "age" : 21,
+    "isEployed": true,
+    "hobbies": ["Football", "Boxing", "Reading"]
+}

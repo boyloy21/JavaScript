@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: hsl(0, 0%, 90%);
+}
+.box{
+    border: 3px solid;
+    width: 100%;
+    height: 125px;
+}
+#myBox{
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#btn{
+    font-size: 3rem;
+}
+#Box{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    font-size: 7.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+#myBtn{
+    font-size: 2rem;
+}
